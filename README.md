@@ -20,6 +20,7 @@ This project demonstrates a complete Retrieval-Augmented Generation (RAG) pipeli
 - Markdown
 
 ## Project Structure
+```text
 project-bot/
 ├── scraper/
 │   ├── fetch_articles.py        # Scrape help articles from documentation
@@ -36,6 +37,7 @@ project-bot/
 ├── Dockerfile                   # Dockerized execution
 ├── .env.sample                  # Environment variable template
 └── README.md                    # Project documentation
+```
 
 ## How It Works
 1. Scrape documentation content
